@@ -1,0 +1,7 @@
+{
+  "name": "SafeTour Guard",
+  "description": "Smart Tourist Safety Monitoring & Incident Response System with offline geo-fencing, BLE store-and-forward mesh relay, AI risk analysis, verifiable digital ID, and multi-channel emergency SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
